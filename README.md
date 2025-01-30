@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi all! 
+## I'm new here, studying to be a frontend-developer. Former bartender. 
 
 <!--
 **Andrey-barman/Andrey-Barman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
